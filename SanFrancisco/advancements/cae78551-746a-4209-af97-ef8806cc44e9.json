@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "birch_forest": "2018-02-24 15:33:21 -0500",
+      "deep_ocean": "2018-02-24 15:33:52 -0500",
+      "savanna": "2018-02-24 15:33:45 -0500",
+      "plains": "2018-02-24 15:26:34 -0500",
+      "roofed_forest": "2018-02-24 15:34:09 -0500"
+    },
+    "done": false
+  }
+}
